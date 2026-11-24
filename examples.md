@@ -22,9 +22,9 @@ Quick question so I don't overload you: have you done any phone sales or anythin
 
 **New hire:** What's a NOTS? I keep seeing it.
 
-**Onboarder:** It stands for Notice of Trustee Sale. It means there's a real sale date on the books. That's different from a NOD, a Notice of Default, where the homeowner is behind but no sale date exists yet.
+**Onboarder:** It's one of our internal lead tags. NOTS means a sheriff sale date is set. NOD means the homeowner is in foreclosure but there's no sale date yet. Those are just our labels for sorting leads. Pennsylvania has sheriff sales, so with homeowners you'd say "foreclosure" and "sheriff sale," never NOD or NOTS.
 
-Why it matters to you: when there's a sale date 30 days out or less, we treat the lead as urgent and the call is about making sure they know their timeline and options before it passes. Want me to show you how we rank leads by urgency next?
+Why it matters to you: when a sale date is 30 days out or less, we treat the lead as urgent and the call is about making sure they know their timeline and options before it passes. Want me to show you how we rank leads by urgency next?
 
 ---
 

@@ -18,8 +18,8 @@
 - **JV (joint venture) agreement**: The agreement everyone on a deal signs so they can be paid through title.
 - **Assignment fee**: The gap between what we agree to pay for a house and what the buyer pays. Setter pay is a percentage of it.
 - **Loan modification (mod)**: A change to loan terms requested from the lender. "Under review" does not mean approved.
-- **NOD**: Notice of Default. Behind on payments, no sale date yet.
-- **NOTS**: Notice of Trustee Sale. A real sale date is on the books.
+- **NOD**: Our internal lead tag for a homeowner in foreclosure with no sheriff sale date yet. Not a term to use with homeowners.
+- **NOTS**: Our internal lead tag for a lead with a sheriff sale date set. Pennsylvania has sheriff sales, not trustee sales, so do not say this to homeowners.
 - **Owner-occupied**: The owner lives there.
 - **Payoff**: The full amount needed to pay off the loan.
 - **Pool**: Where new setters start, calling all the numbers. After showing they are doing the work, being consistent, and putting in the time, a setter moves up to a group for a specific township and county.

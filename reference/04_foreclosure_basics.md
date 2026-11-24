@@ -7,8 +7,10 @@ Exact steps and timelines vary by county and by situation. If a new hire asks fo
 ## The funnel
 
 ```
-Late on payments -> NOD filed -> NOTS filed -> Sale Date -> [Expired / Sold / Reinstated]
+Late on payments -> NOD stage (no sale date yet) -> NOTS stage (sheriff sale date set) -> Sale Date -> [Expired / Sold / Reinstated]
 ```
+
+NOD and NOTS are our internal lead tags. Pennsylvania has sheriff sales, not trustee sales, so use "foreclosure" and "sheriff sale" with homeowners.
 
 ## The general mortgage foreclosure path in Pennsylvania
 

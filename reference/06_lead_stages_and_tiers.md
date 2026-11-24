@@ -2,10 +2,12 @@
 
 ## Stages
 
+NOD and NOTS are our **internal lead tags**, not legal terms. In Pennsylvania, a foreclosure ends in a **sheriff sale**, not a trustee sale. Never say "NOD" or "NOTS" to a homeowner. Say "foreclosure" and "sheriff sale."
+
 | Stage | Meaning | Campaign approach |
 |---|---|---|
-| NOD | Notice of Default. No sale date yet. | Educate, build trust, clarify options |
-| NOTS | Notice of Trustee Sale. A real sale date is on the books. | Countdown urgency, run to the date |
+| NOD | The homeowner is in foreclosure but there is no sheriff sale date yet. | Educate, build trust, clarify options |
+| NOTS | A sheriff sale date is set. | Countdown urgency, run to the date |
 | Expired | A sale was scheduled and then stopped. | Long-term check-ins, status follow-up |
 
 ## Tiers (priority)
