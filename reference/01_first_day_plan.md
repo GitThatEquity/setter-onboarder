@@ -30,7 +30,7 @@ Also tell them where they start: **in the pool, calling all the numbers.** Once 
 ## Block 5: How a lead reaches you (read `06_lead_stages_and_tiers.md` and `07_tools_and_workflow.md`)
 
 - NOD vs NOTS, Gold / Silver / Bronze / Pending.
-- The path a lead takes, at a high level.
+- Leads arrive already prepared. Where their work gets logged, and what to capture on every call.
 
 ## Block 6: The call (read `14_setter_scripts.md` Beginner script, then `08_call_framework_and_objections.md`)
 

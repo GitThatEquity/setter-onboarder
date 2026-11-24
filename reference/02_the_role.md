@@ -40,7 +40,7 @@ A new hire starts at Newbie Setter. The setter scripts are in `14_setter_scripts
 
 **Your leads.** Once you have built real rapport with a homeowner, that lead is **yours**. It is designated as yours, it goes into your follow-up, and nobody else should be calling it. This keeps the homeowner from getting calls from several people and keeps them talking to someone they already trust.
 
-Who decides when you move from the pool to a group or from one level to the next is not in this folder (see `12_not_covered.md`). They are not in this folder (see `12_not_covered.md`).
+How long moving up usually takes, and who decides when you move from the pool to a group or from one level to the next, are not in this folder (see `12_not_covered.md`).
 
 ## What good looks like
 

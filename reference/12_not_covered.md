@@ -17,6 +17,7 @@ These are things a new setter will likely ask that this folder deliberately does
 | What if my first appointment falls through and someone else books a new one? | Not confirmed. The owner has only described the case where the first setter's appointment closes | Owner |
 | Am I an employee? How do I handle taxes? | Setters are independent contractors (see `13_pay_and_hours.md`). Tax and legal questions are not answered here | Owner and a tax professional of their own |
 | What time do I start today, and who do I meet? | Owner sets the day | Owner |
+| When do I start calling homeowners? | Set by the owner (see `01_first_day_plan.md`). Do not guess a day | Owner |
 | What does my JV agreement say? | The terms are not in this folder | Owner |
 | What dialer or phone system do I use? How do I log in? | System and access set by owner | Owner |
 | Where do I log notes and how? | The tracking setup is set by owner | Owner |
@@ -28,7 +29,7 @@ These are things a new setter will likely ask that this folder deliberately does
 | Are there laws about calling or texting I need to follow? | The company's looseness about schedule is not a statement about legal rules. Legal compliance is not covered here | Owner, who can involve an attorney |
 | Who is the closer on my appointments? | Assigned by owner | Owner |
 | How do I reach a teammate directly? | No contact details in this folder | Owner |
-| What does the second dollar amount under Debt on the county list mean? | Not confirmed in this folder | Owner |
+| What does the second dollar amount under Debt on the county list mean? | Covered in `05_reading_the_county_list.md`: it is hand money (the winning bidder's deposit), not part of the debt | Answer from the file |
 | What do I do if a homeowner sends me documents? | Not documented here | Owner |
 | Will bankruptcy / a loan mod / a lawyer stop this sale? | Legal question | Licensed PA attorney, via the closer |
 | Is X a good deal / what would we offer? | Offers belong to the owner | Closer or owner |

@@ -2,33 +2,19 @@
 
 No logins, passwords, or access links live in this folder. Access comes from the owner. Never ask for or accept a password in chat.
 
-## The path a lead takes
+## Where your leads come from
 
-```
-County PDF/CSV -> Scout Engine (clean and classify) -> BatchLeads (upload and enrich)
--> Badger Maps (routes for door knocking) -> Door Knock / Call / Text -> Appointment -> Deal
-```
+You get a list of homeowners to call. It is already prepared for you. How the list is built is not part of a setter's job, so you do not need to learn it. Your job is to make calls and set appointments.
 
-A setter works near the right end of that line: calling, texting, and setting appointments from leads that have already been cleaned and ranked.
-
-## What each tool is for
-
-| Tool | What it does | Setter touches it? |
-|---|---|---|
-| Scout Engine | Cleans raw county lists and sorts leads into Gold / Silver / Bronze / Pending | No. Runs behind the scenes. |
-| BatchLeads | Adds phone numbers and emails to leads (enrichment) | Possibly for contact info. Owner confirms. |
-| Badger Maps | Plans door-knocking routes | Mostly the door-knockers, not callers |
-| Lead tracking (status tags, Airtable) | Where each lead's status and notes are recorded | Yes. Every contact gets logged. |
+## Where your work gets recorded
 
 **Calling time is tracked in Go High Level or Salesforce.** Setters' calls, notes, and appointments are logged there. Which one a specific setter uses is set by the owner.
 
 **Not confirmed in this folder:** how a setter gets access to Go High Level or Salesforce, how call recordings are stored, and what the dialer setup is. See `12_not_covered.md` and ask the owner.
 
-## Manual checkpoints (important)
+## Leads you do not call yet
 
-Human review is required before: uploading to BatchLeads, uploading to Badger Maps, contacting a homeowner when a lead is flagged for review, making an offer, sending a deal or fee agreement to a buyer, or removing a lead permanently. Automation produces reviewable output. It does not silently take irreversible action.
-
-For a setter this means: Pending / Manual Review leads are not called until reviewed, and you do not decide to delete a lead.
+Some leads are marked Pending / Manual Review. Do not call them until someone has reviewed them. You also do not decide to delete a lead. That needs review.
 
 ## Log everything
 

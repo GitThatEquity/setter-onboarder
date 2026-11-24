@@ -13,10 +13,12 @@ Delaware County publishes sheriff sale lists as PDFs, monthly. Chester County pu
 | Location | The municipality, then the property street address. |
 | Term & No. | The court case (term and number). |
 | Name | The defendant(s), usually the homeowner(s). |
-| Debt | The amount owed, with a second smaller amount shown beneath it. |
+| Debt | The amount owed is the first number. A second, smaller amount is shown beneath it: that is hand money, not debt. |
 | Attorney | The law firm for the plaintiff (the lender side). |
 
-**Not confirmed in this folder:** the exact meaning of the second, smaller amount under Debt, and how to read the date next to the listing number. Do not guess. Ask the owner (see `12_not_covered.md`).
+**The second amount under Debt is hand money**: the deposit a winning bidder puts down at the sale. It is not part of what the homeowner owes, so ignore it. Only the first number is the debt.
+
+**Not confirmed in this folder:** how to read the date next to the listing number. Do not guess. Ask the owner (see `12_not_covered.md`).
 
 ## Status notes you may see
 

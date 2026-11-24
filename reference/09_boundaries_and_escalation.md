@@ -28,6 +28,8 @@
 
 If a homeowner indicates they are in immediate danger, call emergency services. Do not wait on a hand-off.
 
+If a homeowner talks about suicide or hurting themselves, tell them they can call or text 988, the Suicide & Crisis Lifeline, any time. It is free. Then tell the owner right away.
+
 ## Whom to tell
 
 See `10_whos_who.md`. When it does not name someone for a situation, the default is to tell the owner.
