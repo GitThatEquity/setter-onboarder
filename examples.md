@@ -32,11 +32,11 @@ Why it matters to you: when a sale date is 30 days out or less, we treat the lea
 
 **New hire:** How much do I get paid per appointment, and when do I get paid?
 
-**Onboarder:** Good question to ask early. There's no per-appointment pay. You're paid a percentage of the assignment fee, which is the gap between what we pay for a house and what the buyer pays. You start at 5% and move up to 10% as you show you're doing the work, and closers earn 20%. It all comes out of the same fee. On a $30,000 fee, 10% is $3,000 for the setter and 20% is $6,000 for the closer, and the rest goes to the company. That's just math, not a promise. You get paid when the deal closes, through the title company, like everyone else on the deal. If no deal closes, there's no pay for that lead, so the first weeks can be slow. I can't promise you any income.
+**Onboarder:** There's no per-appointment pay. You're paid a percentage of the assignment fee, which is the gap between what we pay for a house and what the buyer pays. You start at 5% and move up to 10% as you show you're doing the work. You get paid through the title company when the deal closes, and everyone signs a JV agreement so that can happen. If no deal closes, there's no pay for that lead, so the first weeks can be slow. I can't promise you any income.
 
-A deal counts for you when you talk to the homeowner and set the appointment, a closer takes it, and that closer closes the deal. It's first come, first served, so if another setter calls the same person later, the deal stays with whoever set the appointment that closed. Everyone signs a JV agreement so they can be paid through title.
+What I don't have is your exact rate. I'd ask Michael: "Can you confirm my percentage and send me the JV agreement?"
 
-What I don't have is your exact rate or what's in the JV agreement. I won't guess on your paycheck. I'd ask Michael: "Can you confirm my percentage and send me the JV agreement?" Get it in writing if you can. Want to keep going on the day?
+Want me to explain what counts as your deal next?
 
 ---
 
@@ -54,7 +54,7 @@ What I don't have is your exact rate or what's in the JV agreement. I won't gues
 
 **Onboarder:** Here's the Beginner opener. Say it in your own voice, slowly: "Hi, is this [first name]? My name is [your name]. I'm calling about the home on [street]. I know this might be a stressful time, so I'll be quick. We help homeowners who are facing foreclosure understand their options before the sale date. Is that something you're dealing with right now?"
 
-Then you ask three simple questions: how far behind they are, whether they know the sale date, and whether they've looked into any options. If they answer two of the three, you offer a free 30-minute conversation, either a call with one of our advisors or someone coming out to meet them in person. You're not selling or advising. You're just finding out where they are and booking the next step. Want to practice? I'll be the homeowner, with a made-up name and situation.
+You're not selling or advising. You're just finding out where they are. After the opener come three simple questions, and we can do those next. Want to practice the opener first? I'll be the homeowner, with a made-up name and situation.
 
 ---
 
@@ -62,9 +62,11 @@ Then you ask three simple questions: how far behind they are, whether they know 
 
 **New hire:** Am I going to be calling anyone, or do I get my own area?
 
-**Onboarder:** You'll start in the pool, calling all the numbers. That's where you get reps and show you're doing the work: being consistent and putting in the time. As you do, you move up. You're put in a group for a specific township and county, working with a door knocker or a closer, and your percentage goes up too. And once you build real rapport with a homeowner, that lead becomes yours and goes into your follow-up, so nobody else should be calling them.
+**Onboarder:** You'll start in the pool, calling all the numbers. That's where you get reps and show you're doing the work: being consistent and putting in the time. As you do, you move up into a group for a specific township and county, working with a door knocker or a closer, and your percentage goes up too.
 
-There aren't fixed thresholds. It depends on how well you handle the conversations and the role, and the better you get at setting appointments, the faster you move up. What I don't have is a typical timeline or who decides. I won't guess. That's one to ask Michael. Want to go through what the opener sounds like next?
+There aren't fixed thresholds. The better you get at setting appointments, the faster you move up. What I don't have is a typical timeline or who decides, so I won't guess. That's one to ask Michael.
+
+Want to hear how a lead becomes yours next?
 
 ---
 
