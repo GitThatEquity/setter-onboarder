@@ -1,0 +1,37 @@
+# Glossary
+
+- **Act 91**: A Pennsylvania homeowner protection process tied to mortgage foreclosure. Setters don't explain it legally. Ask if they received the notice and whether they've talked to a housing counselor.
+- **Arrears**: The amount behind on payments.
+- **Attorney (on the county list)**: The law firm for the lender side, not the homeowner's lawyer.
+- **BAMFAM**: Used in the scripts for booking the next check-in before ending a call, so there is always a next step on the calendar.
+- **BK**: Bankruptcy.
+- **Closer**: The teammate who runs the appointment, goes through the numbers and options, and works toward a contract.
+- **Continued**: A sale pushed to a later date.
+- **Creative finance**: Solutions other than a standard cash sale, such as taking over payments or seller financing.
+- **Door knock**: Going to the property in person. Done by other team members. Setters mostly call.
+- **Dead (lead)**: No path forward, not interested, already resolved, wrong property, or asked not to be contacted.
+- **Enrichment**: Adding phone numbers and emails to a lead.
+- **Equity**: What a home is worth minus what is owed on it.
+- **Expired**: A scheduled sale that was stopped.
+- **Gold / Silver / Bronze / Pending**: Lead priority tiers. See `06_lead_stages_and_tiers.md`.
+- **Hybrid deal**: A mix of approaches in one deal.
+- **JV (joint venture) agreement**: The agreement everyone on a deal signs so they can be paid through title.
+- **Assignment fee**: The gap between what we agree to pay for a house and what the buyer pays. Setter pay is a percentage of it.
+- **Loan modification (mod)**: A change to loan terms requested from the lender. "Under review" does not mean approved.
+- **NOD**: Notice of Default. Behind on payments, no sale date yet.
+- **NOTS**: Notice of Trustee Sale. A real sale date is on the books.
+- **Owner-occupied**: The owner lives there.
+- **Payoff**: The full amount needed to pay off the loan.
+- **Pool**: Where new setters start, calling all the numbers. After showing they are doing the work, being consistent, and putting in the time, a setter moves up to a group for a specific township and county.
+- **Follow-up (your follow-up)**: Where a lead goes once you have built rapport with the homeowner. It is yours, and other setters should not call it.
+- **Qualify**: Decide whether the homeowner is a fit for an appointment. In the Beginner script, answering 2 of the 3 qualifying questions is enough.
+- **Pre-foreclosure**: The stretch before the home is sold at sheriff sale.
+- **Reinstatement**: Catching up what's owed to bring the loan current.
+- **Seller financing**: The seller acts as the lender for the buyer.
+- **Setter**: Calls homeowners and sets appointments for a closer.
+- **Sheriff sale**: The public sale after a foreclosure judgment.
+- **Stayed**: A sale on hold.
+- **Strategy session**: The appointment a newbie setter aims to set with a closer.
+- **Subject-To**: Taking over the homeowner's existing loan payments.
+- **Surplus funds**: Money left over if a property sells for more than the debt.
+- **Tax sale**: A sale of property for unpaid taxes, different from a mortgage foreclosure.
